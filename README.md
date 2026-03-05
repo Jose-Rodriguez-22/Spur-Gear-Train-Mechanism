@@ -99,8 +99,8 @@ The velocity vs time plot confirms the expected mechanical behavior of the syste
 
 ### Assembly Visualization
 
-#### Spur Gear Train Assembly
-![Assembly](gear_assembly.png)
+#### Spur Gear Train Exploded View
+![Exploded](https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism/blob/main/exploded_view.gif)
 
 #### Mechanism Motion
 ![Motion](gear_motion.gif)
