@@ -93,7 +93,7 @@ The velocity vs time plot confirms the expected mechanical behavior of the syste
 
 ### Velocity Plot
 
-![Velocity Plot](velocity_vs_time.png)
+![Velocity Plot](https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism/blob/main/angular%20velocity.jpg)
 
 ---
 
