@@ -1,12 +1,10 @@
 ## Simple Spur Gear Train Mechanism
 
-<img width="700" alt="Gear Assembly" src="gear_assembly.png"/>
+<img width="300" alt="Gear Assembly" src="https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism/blob/main/gear_assembly.jpg"/>
 
 ### Overview
 
-This project demonstrates the modeling and kinematic simulation of a simple spur gear train using PTC Creo Mechanism. The objective was to simulate rotational motion transfer between multiple gears and verify the theoretical gear ratio through kinematic analysis.
-
-The system consists of a central sun gear driving two external planet gears while meshing with a stationary internal ring gear. A constant angular velocity motor was applied to the sun gear, allowing observation of velocity relationships throughout the mechanism.
+This project demonstrates the modeling and kinematic simulation of a simple spur gear train. The objective was to simulate rotational motion transfer between multiple gears and verify the theoretical gear ratio through kinematic analysis. The system consists of a central sun gear driving two external planet gears while meshing with a stationary internal ring gear. A constant angular velocity motor was applied to the sun gear, allowing observation of velocity relationships throughout the mechanism.
 
 This project highlights CAD assembly modeling, gear constraint definition, and motion analysis used to simulate mechanical power transmission systems.
 
