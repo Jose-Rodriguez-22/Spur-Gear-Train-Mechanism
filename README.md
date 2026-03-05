@@ -1,6 +1,8 @@
 ## Simple Spur Gear Train Mechanism
 
-<img width="300" alt="Gear Assembly" src="https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism/blob/main/gear_assembly.jpg"/>
+<p align="center">
+  <img src="https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism/blob/main/gear_assembly.jpg" width="600"/>
+</p>
 
 ### Overview
 
